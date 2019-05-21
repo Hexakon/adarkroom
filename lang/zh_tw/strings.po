@@ -349,16 +349,16 @@ msgstr "開燈"
 
 #: ../../script/engine.js:493
 msgid "Go Hyper?"
-msgstr ""
+msgstr "進入亢奮？"
 
 #: ../../script/engine.js:496
 msgid ""
 "turning hyper mode speeds up the game to x2 speed. do you want to do that?"
-msgstr ""
+msgstr "開啓亢奮模式會以兩倍速度進行游戲。您想要這麽做嗎？"
 
 #: ../../script/engine.js:519
 msgid "classic."
-msgstr ""
+msgstr "經典"
 
 #: ../../script/engine.js:620
 msgid "{0} per {1}s"
@@ -378,7 +378,7 @@ msgstr "失手"
 
 #: ../../script/events.js:363 ../../script/events.js:408
 msgid "stunned"
-msgstr "驚嚇"
+msgstr "擊暈"
 
 #: ../../script/events.js:482 ../../script/events.js:653
 #: ../../script/events/global.js:42 ../../script/events/global.js:59
@@ -421,11 +421,11 @@ msgstr "一無所獲"
 
 #: ../../script/events.js:627
 msgid "all"
-msgstr ""
+msgstr "所有"
 
 #: ../../script/events.js:649
 msgid "take everything"
-msgstr ""
+msgstr "拿走一切"
 
 #: ../../script/events.js:653 ../../script/outside.js:627
 msgid " and "
@@ -433,7 +433,7 @@ msgstr "以及"
 
 #: ../../script/events.js:896
 msgid "*** EVENT ***"
-msgstr "*** 消息 ***"
+msgstr "*** 事件 ***"
 
 #: ../../script/events/encounters.js:7
 msgid "A Snarling Beast"
@@ -497,7 +497,7 @@ msgstr "顫抖的男子倒下了"
 
 #: ../../script/events/encounters.js:156
 msgid "a shivering man approaches and attacks with surprising strength"
-msgstr "一名顫抖的男子靠了過來，以令人吃驚的怪力發起襲擊"
+msgstr "一名顫抖的男子靠了過來，以驚奇的怪力發起襲擊"
 
 #: ../../script/events/encounters.js:161
 msgid "A Man-Eater"
@@ -675,7 +675,7 @@ msgstr "森林歸於靜謐"
 
 #: ../../script/events/outside.js:40
 msgid "nothing was found"
-msgstr ""
+msgstr "什麽也沒找到"
 
 #: ../../script/events/outside.js:43 ../../script/events/outside.js:61
 #: ../../script/events/outside.js:126 ../../script/events/outside.js:144
@@ -704,21 +704,21 @@ msgstr "著火了"
 #: ../../script/events/outside.js:76
 #, fuzzy
 msgid "a fire rampages through one of the huts, destroying it."
-msgstr "你的小屋要起火了,撲滅它"
+msgstr "其中一個小屋被熊熊大火吞噬"
 
 #: ../../script/events/outside.js:77
 #, fuzzy
 msgid "all residents in the hut perished in the fire."
-msgstr "不幸的是,屋內的所有人都死於火災中"
+msgstr "屋內的所有人都死於火災中"
 
 #: ../../script/events/outside.js:79
 msgid "a fire has started"
-msgstr "火災已經開始"
+msgstr "火災爆發"
 
 #: ../../script/events/outside.js:86
 #, fuzzy
 msgid "mourn"
-msgstr "護甲"
+msgstr "哀悼"
 
 #: ../../script/events/outside.js:87
 msgid "some villagers have died"
@@ -734,12 +734,12 @@ msgstr "瘟疫在村子中蔓延"
 
 #: ../../script/events/outside.js:103 ../../script/events/outside.js:161
 msgid "medicine is needed immediately."
-msgstr "亟需藥劑"
+msgstr "必須立刻使用藥劑"
 
 #: ../../script/events/outside.js:105
 #, fuzzy
 msgid "some villagers are ill"
-msgstr "有一些村民死掉了"
+msgstr "有一些村民生病了"
 
 #: ../../script/events/outside.js:109
 msgid "1 medicine"
@@ -751,11 +751,11 @@ msgstr "放任不管"
 
 #: ../../script/events/outside.js:121
 msgid "the sickness is cured in time."
-msgstr "疫病及時得到了控制"
+msgstr "瘟疫及時得到了控制"
 
 #: ../../script/events/outside.js:123
 msgid "sufferers are healed"
-msgstr ""
+msgstr "感染者得到了醫療"
 
 #: ../../script/events/outside.js:133
 msgid "the sickness spreads through the village."
@@ -771,7 +771,7 @@ msgstr "尖叫響徹黑夜"
 
 #: ../../script/events/outside.js:137
 msgid "sufferers are left to die"
-msgstr ""
+msgstr "感染者因無人照顧而死"
 
 #: ../../script/events/outside.js:153
 msgid "Plague"
@@ -812,7 +812,7 @@ msgstr "剩下的人埋葬了他們"
 
 #: ../../script/events/outside.js:190
 msgid "epidemic is eradicated eventually"
-msgstr ""
+msgstr "這場劫難最終被制止"
 
 #: ../../script/events/outside.js:204
 msgid "the plague rips through the village."
@@ -824,7 +824,7 @@ msgstr "人們只求速死"
 
 #: ../../script/events/outside.js:208
 msgid "population is almost exterminated"
-msgstr ""
+msgstr "人口幾乎滅絕"
 
 #: ../../script/events/outside.js:224
 msgid "A Beast Attack"
@@ -844,11 +844,11 @@ msgstr "村民撤了回來，悼念那些死去的人"
 
 #: ../../script/events/outside.js:235
 msgid "wild beasts attack the villagers"
-msgstr ""
+msgstr "野獸襲擊了村民們"
 
 #: ../../script/events/outside.js:249
 msgid "predators become prey. price is unfair"
-msgstr ""
+msgstr "獵者成爲了獵物。代價慘重"
 
 #: ../../script/events/outside.js:258
 msgid "A Military Raid"
@@ -864,16 +864,16 @@ msgstr "裝備精良的人衝出樹林，向人群射擊"
 
 #: ../../script/events/outside.js:267
 msgid "after a skirmish they are driven away, but not without losses."
-msgstr "雖然他們撤走了，但我們好些人犧牲了"
+msgstr "他們被趕走了，但是我們的一些人爲此犧牲"
 
 #: ../../script/events/outside.js:269
 #, fuzzy
 msgid "troops storm the village"
-msgstr "黑死病席捲村落"
+msgstr "軍隊攻入村莊"
 
 #: ../../script/events/outside.js:283
 msgid "warfare is bloodthirsty"
-msgstr ""
+msgstr "戰爭嗜血如命"
 
 #: ../../script/events/room.js:6
 msgid "The Nomad"
@@ -882,15 +882,15 @@ msgstr "游牧部落"
 #: ../../script/events/room.js:13
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
-msgstr "游牧部落慢吞吞地出現在視野中，帶著許多用粗麻線紮起來的臨時口袋"
+msgstr "一名游牧人慢慢地出現在視野中，帶著許多用粗麻線紮起來的臨時口袋"
 
 #: ../../script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr "他們沒有提及來處，但顯然不會逗留很久"
+msgstr "他不肯報上來處，但顯然不會逗留很久"
 
 #: ../../script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
-msgstr "游牧部落抵達，想要進行貿易"
+msgstr "游牧人抵達，想要進行交易"
 
 #: ../../script/events/room.js:20
 msgid "buy scales"
@@ -906,7 +906,7 @@ msgstr "購買誘餌"
 
 #: ../../script/events/room.js:33
 msgid "traps are more effective with bait."
-msgstr "上餌陷阱更有效率"
+msgstr "上餌陷阱更有成效"
 
 #: ../../script/events/room.js:39
 msgid "buy compass"
@@ -928,7 +928,7 @@ msgstr "道別"
 
 #: ../../script/events/room.js:53 ../../script/events/room.js:104
 msgid "Noises"
-msgstr "嘈雜"
+msgstr "嘈雜聲"
 
 #: ../../script/events/room.js:60
 msgid "through the walls, shuffling noises can be heard."
@@ -936,7 +936,7 @@ msgstr "嘈雜聲透牆傳來"
 
 #: ../../script/events/room.js:61
 msgid "can't tell what they're up to."
-msgstr "難以分辨來源"
+msgstr "難以分辨聲源"
 
 #: ../../script/events/room.js:63
 msgid "strange noises can be heard through the walls"
@@ -953,7 +953,7 @@ msgstr "模糊的身影掠過，消失在視野外"
 
 #: ../../script/events/room.js:79
 msgid "the sounds stop."
-msgstr "安靜下來了"
+msgstr "那個聲音停止了"
 
 #: ../../script/events/room.js:83 ../../script/events/room.js:96
 msgid "go back inside"
@@ -1003,7 +1003,7 @@ msgstr "乞丐"
 
 #: ../../script/events/room.js:197
 msgid "a beggar arrives."
-msgstr "乞丐徘徊在門前"
+msgstr "一名乞丐前來拜訪"
 
 #: ../../script/events/room.js:198
 msgid "asks for any spare furs to keep him warm at night."
@@ -1011,7 +1011,7 @@ msgstr "祈求能施捨給他一些多餘的毛皮，好讓他不在夜裡受凍
 
 #: ../../script/events/room.js:200
 msgid "a beggar arrives"
-msgstr "乞丐來了"
+msgstr "乞丐到來"
 
 #: ../../script/events/room.js:204
 msgid "give 50"
@@ -1034,15 +1034,15 @@ msgstr "乞丐感激涕零"
 
 #: ../../script/events/room.js:223
 msgid "leaves a pile of small scales behind."
-msgstr "留給我們一堆小鱗片"
+msgstr "留下了一堆小鱗片"
 
 #: ../../script/events/room.js:236
 msgid "leaves a pile of small teeth behind."
-msgstr "留給我們一堆小牙齒"
+msgstr "留下了一堆小牙齒"
 
 #: ../../script/events/room.js:249
 msgid "leaves some scraps of cloth behind."
-msgstr "留給我們一些布料"
+msgstr "留下了一些布料"
 
 #: ../../script/events/room.js:262 ../../script/events/room.js:341
 msgid "The Mysterious Wanderer"
@@ -1056,11 +1056,11 @@ msgstr "一名流浪者推著貨車來到村子，聲稱如果讓他帶著木頭
 
 #: ../../script/events/room.js:270
 msgid "builder's not sure he's to be trusted."
-msgstr "建造者不確定能否信任他"
+msgstr "建築師不確定能否信任他"
 
 #: ../../script/events/room.js:272 ../../script/events/room.js:351
 msgid "a mysterious wanderer arrives"
-msgstr "神秘流浪者來了"
+msgstr "神秘流浪者到來"
 
 #: ../../script/events/room.js:281 ../../script/events/room.js:360
 msgid "give 500"
@@ -1082,7 +1082,7 @@ msgstr "一名流浪者推著貨車來到村子，聲稱如果讓她帶著毛皮
 
 #: ../../script/events/room.js:349
 msgid "builder's not sure she's to be trusted."
-msgstr "建造者不確定能否信任她"
+msgstr "建築師不確定能否信任她"
 
 #: ../../script/events/room.js:365
 msgid "turn her away"
@@ -1102,7 +1102,7 @@ msgstr "偵察兵"
 
 #: ../../script/events/room.js:427
 msgid "the scout says she's been all over."
-msgstr "偵察兵說她曾環遊世界"
+msgstr "偵察兵說她已走遍了世界"
 
 #: ../../script/events/room.js:428
 msgid "willing to talk about it, for a price."
@@ -1174,7 +1174,7 @@ msgstr "他祈求分給他一支藥劑"
 
 #: ../../script/events/room.js:542
 msgid "a sick man hobbles up"
-msgstr "患病男子一瘸一拐地走了過來"
+msgstr "患病男子到來"
 
 #: ../../script/events/room.js:546
 msgid "give 1 medicine"
@@ -1182,7 +1182,7 @@ msgstr "分給他一支藥劑"
 
 #: ../../script/events/room.js:548
 msgid "the man swallows the medicine eagerly"
-msgstr "男子迫不及待嚥下了藥劑"
+msgstr "男子迫不及待地嚥下了藥劑"
 
 #: ../../script/events/room.js:552
 msgid "tell him to leave"
