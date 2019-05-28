@@ -1166,7 +1166,7 @@ msgstr "患病男子"
 
 #: ../../script/events/room.js:539
 msgid "a man hobbles up, coughing."
-msgstr "男子咳嗽著，一瘸一拐地走了過來"
+msgstr "一位男子咳嗽著，一瘸一拐地走了過來"
 
 #: ../../script/events/room.js:540
 msgid "he begs for medicine."
@@ -1208,7 +1208,7 @@ msgstr "那是他在旅途中撿到的一些古怪的發光盒子"
 
 #: ../../script/events/room.js:593
 msgid "all he has are some scales."
-msgstr "全是些鱗片"
+msgstr "只有一些鱗片"
 
 #: ../../script/events/room.js:607
 msgid "the man expresses his thanks and hobbles off."
@@ -1260,11 +1260,11 @@ msgstr "對話"
 
 #: ../../script/events/setpieces.js:72
 msgid "the wanderer takes the charm and nods slowly."
-msgstr "流浪者接過符咒，緩緩點了點頭"
+msgstr "流浪者接過護身符，緩緩點了點頭"
 
 #: ../../script/events/setpieces.js:73
 msgid "he speaks of once leading the great fleets to fresh worlds."
-msgstr "他談起曾率領一支偉大的艦隊前往新世界"
+msgstr "他說他曾率領偉大艦隊去探索新世界"
 
 #: ../../script/events/setpieces.js:74
 msgid "unfathomable destruction to fuel wanderer hungers."
@@ -1343,7 +1343,7 @@ msgstr "離開洞穴"
 
 #: ../../script/events/setpieces.js:148
 msgid "the cave narrows a few feet in."
-msgstr "洞穴狹窄，幾無立足之地"
+msgstr "前方的洞穴愈發狹窄"
 
 #: ../../script/events/setpieces.js:149
 msgid "the walls are moist and moss-covered"
@@ -1371,7 +1371,7 @@ msgstr "它已經開始腐爛，且遺失了一些肢體"
 
 #: ../../script/events/setpieces.js:202
 msgid "can't tell what left it here."
-msgstr "難說這裡還留下了什麼"
+msgstr "不知道這裡發生了什麽"
 
 #: ../../script/events/setpieces.js:241
 msgid "the torch sputters and dies in the damp air"
@@ -1387,7 +1387,7 @@ msgstr "火把燃盡了"
 
 #: ../../script/events/setpieces.js:299
 msgid "a cave lizard attacks"
-msgstr "一頭洞穴蜥蜴襲來"
+msgstr "一隻洞穴蜥蜴襲來"
 
 #: ../../script/events/setpieces.js:333
 msgid "a large beast charges out of the dark"
@@ -1395,15 +1395,15 @@ msgstr "一頭巨獸衝出黑暗"
 
 #: ../../script/events/setpieces.js:367
 msgid "a giant lizard shambles forward"
-msgstr "一頭洞穴蜥蜴跌跌撞撞地襲來"
+msgstr "一隻巨大蜥蜴跌跌撞撞地襲來"
 
 #: ../../script/events/setpieces.js:395
 msgid "the nest of a large animal lies at the back of the cave."
-msgstr "巨獸的巢穴就位於洞穴後方"
+msgstr "一隻巨獸的巢穴就位於洞穴後方"
 
 #: ../../script/events/setpieces.js:437
 msgid "a small supply cache is hidden at the back of the cave."
-msgstr "一個小型供給點藏在洞穴後方"
+msgstr "一小堆東西藏在洞穴後方"
 
 #: ../../script/events/setpieces.js:489
 msgid "an old case is wedged behind a rock, covered in a thick layer of dust."
@@ -1411,7 +1411,7 @@ msgstr "岩石下嵌著一個舊盒子，上面覆滿一層薄灰"
 
 #: ../../script/events/setpieces.js:522
 msgid "A Deserted Town"
-msgstr "沙漠小鎮"
+msgstr "廢棄小鎮"
 
 #: ../../script/events/setpieces.js:526
 msgid "a small suburb lays ahead, empty houses scorched and peeling."
@@ -1421,11 +1421,11 @@ msgstr "前面是一小片住宅區，空無一人，徒留燒焦的殘垣斷壁
 msgid ""
 "broken streetlights stand, rusting. light hasn't graced this place in a long "
 "time."
-msgstr "早就損壞的街燈屹立著，鏽跡斑斑.光明已經很久沒有眷顧這裡"
+msgstr "早就損壞的街燈屹立著，鏽跡斑斑。光明已經很久沒有眷顧這裡"
 
 #: ../../script/events/setpieces.js:529
 msgid "the town lies abandoned, its citizens long dead"
-msgstr "這裡的小鎮早就被遺棄，鎮上的居民已經死去多時"
+msgstr "這個小鎮早就被遺棄，鎮上的居民已經死去多時"
 
 #: ../../script/events/setpieces.js:532 ../../script/events/setpieces.js:1250
 msgid "explore"
@@ -1457,59 +1457,59 @@ msgstr "離開小鎮"
 
 #: ../../script/events/setpieces.js:585
 msgid "ambushed on the street."
-msgstr "街頭有埋伏"
+msgstr "在街頭被埋伏"
 
 #: ../../script/events/setpieces.js:601
 msgid "a squat building up ahead."
-msgstr ""
+msgstr "前面有佔屋"
 
 #: ../../script/events/setpieces.js:602
 msgid "a green cross barely visible behind grimy windows."
-msgstr ""
+msgstr "在骯髒的窗戶後面能看出來一個綠色十字"
 
 #: ../../script/events/setpieces.js:618
 msgid "a small cache of supplies is tucked inside a rusting locker."
-msgstr ""
+msgstr "在一個櫃子裏發現了一點東西"
 
 #: ../../script/events/setpieces.js:680
 msgid "a scavenger waits just inside the door."
-msgstr ""
+msgstr "一位拾荒者已在門後等待多時"
 
 #: ../../script/events/setpieces.js:714
 msgid "a beast stands alone in an overgrown park."
-msgstr ""
+msgstr "一隻野獸獨自站在雜草叢生的公園裏"
 
 #: ../../script/events/setpieces.js:730
 msgid "an overturned caravan is spread across the pockmarked street."
-msgstr ""
+msgstr "一輛被破壞的大篷車倒在街道上"
 
 #: ../../script/events/setpieces.js:731
 msgid ""
 "it's been picked over by scavengers, but there's still some things worth "
 "taking."
-msgstr ""
+msgstr "已經被拾荒者搜過了，但還有一些值得拿的東西"
 
 #: ../../script/events/setpieces.js:793
 msgid "a madman attacks, screeching."
-msgstr ""
+msgstr "一個瘋子尖叫著發起了進攻"
 
 #: ../../script/events/setpieces.js:832
 msgid "a thug moves out of the shadows."
-msgstr ""
+msgstr "一名劫匪在黑影中出現"
 
 #: ../../script/events/setpieces.js:866
 #, fuzzy
 msgid "a beast charges out of a ransacked classroom."
-msgstr "一頭巨獸衝出黑暗"
+msgstr "一頭巨獸從教室衝出"
 
 #: ../../script/events/setpieces.js:882
 #, fuzzy
 msgid "through the large gymnasium doors, footsteps can be heard."
-msgstr "嘈雜聲透牆傳來"
+msgstr "能聽到體育館大門的另一端有脚步聲"
 
 #: ../../script/events/setpieces.js:883
 msgid "the torchlight casts a flickering glow down the hallway."
-msgstr ""
+msgstr "火把的光照在走廊墻上閃爍。"
 
 #: ../../script/events/setpieces.js:884
 #, fuzzy
@@ -1518,24 +1518,24 @@ msgstr "安靜下來了"
 
 #: ../../script/events/setpieces.js:917
 msgid "another beast, draw by the noise, leaps out of a copse of trees."
-msgstr ""
+msgstr "另一隻猛獸被聲音吸引了過來"
 
 #: ../../script/events/setpieces.js:933
 msgid "something's causing a commotion a ways down the road."
-msgstr ""
+msgstr "在路的前方似乎有什麽爭執"
 
 #: ../../script/events/setpieces.js:934
 msgid "a fight, maybe."
-msgstr ""
+msgstr "可能在打架"
 
 #: ../../script/events/setpieces.js:949
 msgid ""
 "a small basket of food is hidden under a park bench, with a note attached."
-msgstr ""
+msgstr "在公園裏的一張長椅下方發現一籃食物，還有一張紙條。"
 
 #: ../../script/events/setpieces.js:950
 msgid "can't read the words."
-msgstr ""
+msgstr "看不懂上面的字。"
 
 #: ../../script/events/setpieces.js:997
 msgid "a panicked scavenger bursts through the door, screaming."
