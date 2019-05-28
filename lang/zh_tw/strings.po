@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: adarkroom\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-02-15 02:03+0100\n"
-"PO-Revision-Date: 2016-02-15 02:03+0100\n"
-"Last-Translator: Yuki Usagi <karst124@gmail.com>\n"
+"POT-Creation-Date: 2019-05-29 02:03+0200\n"
+"PO-Revision-Date: 2019-05-29 02:03+0200\n"
+"Last-Translator: Hex4Nova <hex4nova@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -1522,111 +1522,111 @@ msgstr "另一隻猛獸被聲音吸引了過來"
 
 #: ../../script/events/setpieces.js:933
 msgid "something's causing a commotion a ways down the road."
-msgstr "在路的前方似乎有什麽爭執"
+msgstr "在路的前方似乎有騷動"
 
 #: ../../script/events/setpieces.js:934
 msgid "a fight, maybe."
-msgstr "可能在打架"
+msgstr "也許在為資源打架"
 
 #: ../../script/events/setpieces.js:949
 msgid ""
 "a small basket of food is hidden under a park bench, with a note attached."
-msgstr "在公園裏的一張長椅下方發現一籃食物，還有一張紙條。"
+msgstr "在公園裏的一張長椅下方發現一籃食物，還有一張紙條"
 
 #: ../../script/events/setpieces.js:950
 msgid "can't read the words."
-msgstr "看不懂上面的字。"
+msgstr "看不懂上面的字"
 
 #: ../../script/events/setpieces.js:997
 msgid "a panicked scavenger bursts through the door, screaming."
-msgstr ""
+msgstr "一個慌張的拾荒者尖叫著撞開了門"
 
 #: ../../script/events/setpieces.js:1036
 msgid "a man stands over a dead wanderer. notices he's not alone."
-msgstr ""
+msgstr "一名男子站在一具流浪者的尸體旁。他發現他不是獨自一人"
 
 #: ../../script/events/setpieces.js:1052
 msgid "scavenger had a small camp in the school."
-msgstr ""
+msgstr "拾荒者們在校園裏建立了一個小營地"
 
 #: ../../script/events/setpieces.js:1053
 msgid "collected scraps spread across the floor like they fell from heaven."
-msgstr ""
+msgstr "搜集自四面八方的廢銅爛鐵仿佛天賜一般散佈在地上"
 
 #: ../../script/events/setpieces.js:1095
 msgid "scavenger'd been looking for supplies in here, it seems."
-msgstr ""
+msgstr "看來這裏曾有拾荒者先到一步"
 
 #: ../../script/events/setpieces.js:1096
 msgid "a shame to let what he'd found go to waste."
-msgstr ""
+msgstr "資源就這樣被荒廢太可惜了"
 
 #: ../../script/events/setpieces.js:1128
 msgid ""
 "beneath the wanderer's rags, clutched in one of its many hands, a glint of "
 "steel."
-msgstr ""
+msgstr "在流浪者的衣裳下，鋼鐵在他的手中閃閃發亮"
 
 #: ../../script/events/setpieces.js:1129
 msgid "worth killing for, it seems."
-msgstr ""
+msgstr "看來這一戰是值得的"
 
 #: ../../script/events/setpieces.js:1156
 msgid "eye for an eye seems fair."
-msgstr ""
+msgstr "以眼還眼，再公平不過"
 
 #: ../../script/events/setpieces.js:1157
 msgid "always worked before, at least."
-msgstr ""
+msgstr "至少曾經是可行的"
 
 #: ../../script/events/setpieces.js:1158
 msgid "picking the bones finds some useful trinkets."
-msgstr ""
+msgstr "在骨頭中發現了一些有用的小東西"
 
 #: ../../script/events/setpieces.js:1200
 msgid "some medicine abandoned in the drawers."
-msgstr ""
+msgstr "在抽屜裏發現了被遺忘的藥物"
 
 #: ../../script/events/setpieces.js:1222
 msgid "the clinic has been ransacked."
-msgstr ""
+msgstr "診所已被洗劫一空"
 
 #: ../../script/events/setpieces.js:1223
 msgid "only dust and stains remain."
-msgstr ""
+msgstr "留下的只有灰塵與污跡"
 
 #: ../../script/events/setpieces.js:1239
 #, fuzzy
 msgid "A Ruined City"
-msgstr "損毀的陷阱"
+msgstr "毀滅的都市"
 
 #: ../../script/events/setpieces.js:1243
 msgid ""
 "a battered highway sign stands guard at the entrance to this once-great city."
-msgstr ""
+msgstr "一個被歲月磨損的交通路標標記著這個曾經偉大的城市的入口"
 
 #: ../../script/events/setpieces.js:1244
 msgid ""
 "the towers that haven't crumbled jut from the landscape like the ribcage of "
 "some ancient beast."
-msgstr ""
+msgstr "那些仍然峙立的高樓與周圍的地形看上去像是一個千年神獸的肋骨"
 
 #: ../../script/events/setpieces.js:1245
 msgid "might be things worth having still inside."
-msgstr ""
+msgstr "也許還有值得搜刮的東西在裏面"
 
 #: ../../script/events/setpieces.js:1247
 msgid "the towers of a decaying city dominate the skyline"
-msgstr ""
+msgstr "荒廢的高樓填滿了天際線"
 
 #: ../../script/events/setpieces.js:1261
 #, fuzzy
 msgid "the streets are empty."
-msgstr "剩下的人埋葬了他們"
+msgstr "街道上寂靜的可怕"
 
 #: ../../script/events/setpieces.js:1262
 msgid "the air is filled with dust, driven relentlessly by the hard winds."
-msgstr ""
+msgstr "空氣裏充滿了灰塵，被强風無情地吹來吹去"
 
 #: ../../script/events/setpieces.js:1270 ../../script/events/setpieces.js:1286
 #: ../../script/events/setpieces.js:1302 ../../script/events/setpieces.js:1318
@@ -1655,31 +1655,31 @@ msgstr ""
 #: ../../script/events/setpieces.js:2925
 #, fuzzy
 msgid "leave city"
-msgstr "離開洞穴"
+msgstr "離開城市"
 
 #: ../../script/events/setpieces.js:1277
 msgid "orange traffic cones are set across the street, faded and cracked."
-msgstr ""
+msgstr "黯淡碎裂的橘色交通錐攔住了這條街"
 
 #: ../../script/events/setpieces.js:1278
 msgid "lights flash through the alleys between buildings."
-msgstr ""
+msgstr "在建築物之間的小巷子裏仍有燈光閃爍"
 
 #: ../../script/events/setpieces.js:1293
 msgid "a large shanty town sprawls across the streets."
-msgstr ""
+msgstr "一個簡陋卻龐大的村莊在前方蔓延開來"
 
 #: ../../script/events/setpieces.js:1294
 msgid "faces, darkened by soot and blood, stare out from crooked huts."
-msgstr ""
+msgstr "被灰和血弄髒的一張張臉從破舊不堪的房屋内張望著外面"
 
 #: ../../script/events/setpieces.js:1309
 msgid "the shell of an abandoned hospital looms ahead."
-msgstr ""
+msgstr "一個曾是醫院的軀殼在前方不遠處"
 
 #: ../../script/events/setpieces.js:1325
 msgid "the old tower seems mostly intact."
-msgstr ""
+msgstr "破舊的高樓似乎還算完整"
 
 #: ../../script/events/setpieces.js:1326
 msgid "the shell of a burned out car blocks the entrance."
